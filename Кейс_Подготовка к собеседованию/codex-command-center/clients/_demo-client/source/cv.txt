@@ -1,0 +1,30 @@
+РЕЗЮМЕ
+Дмитрий Корнев
+dmitry.kornev@email.com | LinkedIn: linkedin.com/in/dkornev | Цюрих, Швейцария
+
+ОПЫТ РАБОТЫ
+
+DevOps Engineer — TechStart AG, Цюрих (2019 — настоящее время)
+- Отвечаю за инфраструктуру компании
+- Работаю с Kubernetes и AWS
+- Настраиваю CI/CD пайплайны
+- Провожу ревью кода
+- Помогаю новым сотрудникам
+
+DevOps Engineer — Webflow Solutions, Берн (2017 — 2019)
+- Поддержка серверной инфраструктуры
+- Работа с Docker
+- Мониторинг систем
+
+Junior System Administrator — IT-Компания, Москва (2015 — 2017)
+- Администрирование Linux-серверов
+- Поддержка пользователей
+
+НАВЫКИ
+Kubernetes, Docker, Terraform, AWS, CI/CD, Jenkins, GitLab, Python, Bash, Linux
+
+ОБРАЗОВАНИЕ
+Бакалавр, Информационные системы — МГТУ им. Баумана, 2015
+
+ЯЗЫКИ
+Русский (родной), Английский (C1), Немецкий (B1)

@@ -1,0 +1,10 @@
+# Демо-режим (python agent.py) работает вообще без зависимостей — только стандартная библиотека Python.
+# Для боевого режима (--live, реальный вызов Claude) нужен пакет anthropic:
+anthropic>=0.40.0
+
+# Для расширения до полной версии с Google Workspace (см. TZ.md) дополнительно:
+# google-auth
+# google-api-python-client
+# python-docx        # чтение CV в .docx
+# PyMuPDF            # чтение CV в .pdf
+# python-dotenv
